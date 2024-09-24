@@ -10,7 +10,7 @@ function QuantityPicker(){
     }
     function handleDecrease(){
         let value = quantity - 1;
-        if(value <1) return;
+        if(value <1) return; // get out
 
         setQuantity(value);
     }
