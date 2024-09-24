@@ -33,3 +33,21 @@
     font-size: 17.5px;
     color: black;
 }
+
+.product .prices {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.product .prices .total span{
+    font-size: 18px;
+    font-weight: 600;
+    color:crimson;
+    display: block;
+}
+.product .prices .price span{
+    font-size: 18px;
+    color: #333;
+    display: block;
+}

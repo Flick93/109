@@ -1,0 +1,11 @@
+.cart {
+    padding-top: 20px;
+}
+.cart h1{
+    color: orangered;
+    font-size: 30px;
+}
+.cart h4{
+    color: #4a4d4c;
+    margin-top: 0;
+}
